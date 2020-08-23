@@ -1,2 +1,2 @@
 
-| # Yoshi128k's Website! |
+-># Yoshi128k's Website!<-
